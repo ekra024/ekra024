@@ -1,68 +1,56 @@
+<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ekra&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Asmahul%20Husna&fontSize=50&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+</div>
+
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Backend+Architecture+%7C+Clean+Code;Competitive+Programmer+%7C+LeetCode+1400%2B" alt="Typing SVG" />
 </div>
 
 <br/>
 
+---
+
+## 🙋‍♀️ About Me
+
+> *Passionate Full Stack Developer from Bangladesh, focused on building scalable web applications with clean, maintainable code.*
+
+I am a final-year Computer Science student at **Barisal University**, actively preparing for Software Engineer roles at top tech companies. I enjoy designing robust backend systems, writing clean code, and solving algorithmic challenges in my free time.
+
+- 🔭 Currently working on a **full-stack tourism website** with role-based authentication
+- 🌱 Exploring **Next.js** and server-side rendering patterns
+- ⚙️ Practicing **modular folder structure** in Express.js for production-grade apps
+- 🧩 Solving **DSA problems** daily on LeetCode — focusing on graphs & dynamic programming
+- 💬 Ask me about **MERN Stack, REST API design, or competitive programming**
+
+---
+
+## 🛠️ Skills & Technologies
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ekra+%F0%9F%91%8B;Software+Engineer+in+the+Making;Competitive+Programmer+%7C+ICPC+Dhaka+2023;MERN+Stack+%7C+C%2B%2B+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate **Computer Science student** from **Barisal University, Bangladesh**, on my journey to become a professional Software Engineer. I love writing clean, optimized code and solving complex problems efficiently.
-
-- 🎓 **7th Semester** CS student at Barisal University
-- 🏆 **ICPC Dhaka Regional 2023** — Participant
-- 💡 Strong focus on **backend development**, **clean architecture**, and **optimized algorithms**
-- 🧠 Enjoy breaking down hard problems and rebuilding them elegantly
-- 📫 Reach me at: **ekra024@gmail.com** *(update this)*
-
----
-
-## 🚀 What I'm Up To
-
-- 🔥 Actively sharpening **backend skills** — building clean, scalable REST APIs
-- 🧩 Practicing **LeetCode** daily — focusing on time & space complexity optimization
-- 🎯 Preparing for **fresher SWE interviews** at top Bangladeshi tech companies
-- 📦 Exploring **system design fundamentals** and best practices
-- ⚔️ Keeping competitive programming sharp with C++ problem solving
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 </p>
 
-### 🔧 Tools & Others
+### 🔐 Auth & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode&theme=dark" />
 </p>
 
-### 🏅 Highlights
+### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/ICPC-Dhaka_Regionalist_2023-red?style=for-the-badge&logo=trophy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Active_Solver-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Clean_Code_%26_DSA-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c&theme=dark" />
 </p>
+
+</div>
 
 ---
 
@@ -70,17 +58,43 @@ I'm a passionate **Computer Science student** from **Barisal University, Banglad
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekra024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekra024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekra024&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekra024&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekra024&theme=tokyonight&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekra024&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekra024&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekra024/ekra024/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekra024/ekra024/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekra024/ekra024/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| 🏅 Platform | 📈 Achievement |
+|:-----------:|:-------------:|
+| 🟡 LeetCode | 120+ Problems • Rating **1400+** |
+| 🔴 CodeChef | Rating **1597** |
+| 🌐 ICPC | Participated |
+| 🇧🇩 NGPC | Participated |
+
 </div>
 
 ---
@@ -88,32 +102,18 @@ I'm a passionate **Computer Science student** from **Barisal University, Banglad
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/ekra024" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ekra024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekra024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmahul%20Husna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ekra024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ekra024)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ekra024-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ekra024)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 </div>
 
 ---
 
+<!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekra024&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 </div>
