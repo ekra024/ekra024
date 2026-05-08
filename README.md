@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Backend+Architecture+%7C+Clean+Code;Competitive+Programmer+%7C+LeetCode+1400%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Backend+Developer+%7C+Clean+Code;Problem+Solver+%7C+LeetCode+1500%2B%rating" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -90,8 +90,8 @@ I am a final-year Computer Science student at **Barisal University**, actively p
 
 | 🏅 Platform | 📈 Achievement |
 |:-----------:|:-------------:|
-| 🟡 LeetCode | 120+ Problems • Rating **1400+** |
-| 🔴 CodeChef | Rating **1597** |
+| 🟡 LeetCode | 120+ Problems • Rating **1500+** |
+| 🔴 CodeChef | Rating **1598 Max** |
 | 🌐 ICPC | Participated |
 | 🇧🇩 NGPC | Participated |
 
@@ -104,10 +104,10 @@ I am a final-year Computer Science student at **Barisal University**, actively p
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ekra024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekra024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmahul%20Husna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ekra024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ekra024)
-[![CodeChef](https://img.shields.io/badge/CodeChef-ekra024-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ekra024)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmahul%20Husna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmahul-husna-dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ekra024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ekra_024/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ekra024-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ekra0)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekra.cse8.bu@gmail.com)
 
 </div>
 
